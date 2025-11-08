@@ -1,0 +1,4 @@
+name: AntiCev
+version: '2.0'
+main: net.tinkoprof.anticev.AntiCev
+api-version: '1.21'
