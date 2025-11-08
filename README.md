@@ -1,7 +1,7 @@
 # AntiCev-Plugin
 
 ## What’s AntiCev
-AntiCev a Minecraft plugin for patch the Civ/Cev breaker.
+AntiCev a Paper plugin for patch the Civ/Cev breaker.
 
 ## Why
 <div align="center">
